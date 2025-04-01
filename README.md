@@ -1,12 +1,47 @@
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio website! This is a personal project showcasing my skills, projects, and experience in frontend development.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+Check out the live version of my portfolio: [Your Portfolio Link](https://rohitportfoliosite.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+- HTML5
+- CSS3 / Tailwind CSS
+- JavaScript (ES6+)
+- React.js
+- Next.js (Optional)
+- Framer Motion (For animations)
+- Vite/Webpack (Build tools)
 
-## Expanding the ESLint configuration
+## 🛠️ Installation & Setup
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/portfolio-website.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd portfolio-website
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm run dev
+   ```
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Deployment
+To deploy the website, you can use platforms like:
+- **Netlify**: `https://rohitportfoliosite.netlify.app/`
+- **GitHub Pages** (for static builds)
+
+## ✨ Features
+- Responsive and mobile-friendly design
+- Dark mode support
+- Smooth animations
+- Contact form with email integration
+- Dynamic project showcase
+
+
