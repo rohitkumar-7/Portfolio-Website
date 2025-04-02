@@ -6,7 +6,7 @@ import profile_img from '../../assets/about_imgg.jpg'
 
 
 const About = () => {
-    
+
     return (
         <div id='about' className='about'>
             
