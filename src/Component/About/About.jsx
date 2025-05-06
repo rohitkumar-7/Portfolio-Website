@@ -21,7 +21,7 @@ const About = () => {
                 <div className="about-right">
                     <div className="about-para">
                         <p>
-                            I am a frontend developer from India, specializing in crafting beautiful, interactive, and responsive websites.
+                            I am a software engineer from India, specializing in crafting beautiful, interactive, and responsive websites.
                         </p>
                         <p>
                             My passion for web development began in 2022 when I took the initiative to create a website for my college fest. Since then, I've gained over a year of industry experience and have been continually honing my skills.

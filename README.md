@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Welcome to my portfolio website! This is a personal project showcasing my skills, projects, and experience in frontend development.
+Welcome to my portfolio website! This is a personal project showcasing my skills, projects, and experience in full stack development.
 
 ## 🚀 Live Demo
 Check out the live version of my portfolio: [Your Portfolio Link](https://rohitportfoliosite.netlify.app/)

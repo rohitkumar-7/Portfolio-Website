@@ -15,7 +15,7 @@ function Footer() {
             <h1>Rohit</h1>
             <img src={theme_pattern} alt="" />
           </div>
-          <p>I am a frontend developer from, India with 1+ years of experience</p>
+          <p>I am a software engineer from, India with 1+ years of experience</p>
         </div>
         <div className="footer-top-right">
           <div className="footer-email-input">
