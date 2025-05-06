@@ -12,7 +12,7 @@ const Hero = () => {
   return (
     <div id='home' className='hero'>
       <img src={profile_img} alt="" />
-      <h1><span>I'm Rohit Kumar,</span> frontend developer based in India.</h1>
+      <h1><span>I'm Rohit Kumar,</span> software engineer based in India.</h1>
       <p>I specialize in creating beautiful, interactive and responsive websites.</p>
       <div className="hero-action">
         <div className="hero-connect">
